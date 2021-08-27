@@ -183,7 +183,7 @@ ul a:hover {
 
 @media screen and (max-width:411px) {
     body {
-  zoom: 30%;
+  zoom: 35%;
    right: 13%;
         position: relative;
     }
